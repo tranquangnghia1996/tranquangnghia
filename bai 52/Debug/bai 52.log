@@ -1,0 +1,21 @@
+﻿Build started 12/3/2014 2:29:35 PM.
+     1>Project "D:\bai tap lap trinh C++\bai 52\bai 52\bai 52.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\bai tap lap trinh C++\bai 52\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\bai 52.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "bai 52.cpp"
+         bai 52.cpp
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'a'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'b'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'c'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'd'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'e'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(7): error C2082: redefinition of formal parameter 'f'
+     1>d:\bai tap lap trinh c++\bai 52\bai 52\bai 52.cpp(8): error C2106: '=' : left operand must be l-value
+     1>Done Building Project "D:\bai tap lap trinh C++\bai 52\bai 52\bai 52.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.45
